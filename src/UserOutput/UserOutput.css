@@ -1,0 +1,12 @@
+.output{
+    box-sizing: border-box;
+}
+
+.output p{
+    display: inline-block;
+    margin: 1rem 0.5rem;
+    width: auto;
+    text-align: left;
+    padding: 1rem
+}
+
